@@ -2,7 +2,7 @@
 <div id=nav>
     <router-link class="nav-item-main" :to="{ path: '/' }">EIZOFT</router-link>
     <router-link class="nav-item-sub" :to="{ path: '/about' }">ABOUT</router-link>
-    <router-link class="nav-item-sub" :to="{ path: '/about' }">TEAM</router-link>
+    <router-link class="nav-item-sub" :to="{ path: '/team' }">TEAM</router-link>
 </div>
   
 </template>
@@ -18,19 +18,20 @@
     content: ""; /* This is necessary for the pseudo element to work. */ 
     display: block; /* This will put the pseudo element on its own line. */
     margin: 0 auto; /* This will center the border. */
-    width: 127%; /* Change this to whatever width you want. */
+    width: 126%; /* Change this to whatever width you want. */
     border-bottom: 1px solid #3c1053; /* This creates the border. Replace black with whatever color you want. */
 }
 .nav-item-main,.nav-item-sub {
     text-decoration: none;
     color: white;
-    font-family: Avenir, Helvetica, Arial, sans-serif;
 }
 .nav-item-main {
-    font-size: 36px;
+    font-size: 41px;
+    font-family:'Acme', Avenir, Helvetica, Arial, sans-serif;
 }
 .nav-item-sub{
-    font-size: 23px;
+    font-size: 32px;
+    font-family:'Teko', Avenir, Helvetica, Arial, sans-serif;
 }
 </style>
 

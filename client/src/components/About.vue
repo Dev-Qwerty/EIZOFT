@@ -1,6 +1,6 @@
 <template>
     <div class="container">
-        <p>Web page under construction</p>
+        <p>page under construction</p>
         <img src="../assets/under-construction-3.svg">
     </div>
 </template>
