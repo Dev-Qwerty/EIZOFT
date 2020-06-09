@@ -16,7 +16,7 @@
     font-size: 55px;
     margin-top: 32%;
     color: white;
-    font-family:'Balsamiq Sans', cursive, Avenir, Helvetica, Arial, sans-serif;
+    font-family:'Audiowide', cursive, Avenir, Helvetica, Arial, sans-serif;
     
 }
 .container > h1:after {

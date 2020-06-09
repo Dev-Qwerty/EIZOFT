@@ -37,6 +37,13 @@ export default {
 </script>
 
 <style>
+body::-webkit-scrollbar {  /*remove scroll bar in Chrome/Safari/Webkit*/
+    display: none;
+}
+html {
+scrollbar-width: none;  /*remove scrollbar in firefox*/
+}
+
 .particle {
   position: fixed;
   width: 100%;
