@@ -9,7 +9,7 @@
 .container {
     display: grid;
     justify-content: center;
-    align-content: center;
+    margin-top: 19%;
 }
 
 .container > p {
