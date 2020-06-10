@@ -14,7 +14,7 @@
 
 .container > p {
     color: white;
-    font-size: 55px;
+    font-size: 80px;
     margin: 0% auto;
     font-family:'Dancing Script', cursive, Avenir, Helvetica, Arial, sans-serif;
 }
