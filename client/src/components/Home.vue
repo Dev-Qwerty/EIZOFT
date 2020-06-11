@@ -1,5 +1,5 @@
 <template>
-    <div class="container">
+    <div class="containerHome">
         <div class="title">
             <p>Together We 
             <vue-typer
@@ -17,12 +17,13 @@
             ></vue-typer>
         </p>
         </div>
+
     </div>
 </template>
 
 
 <style>
-.container {
+.containerHome {
     display: grid;
     justify-content: center;
     margin-top: 19%;
