@@ -4,7 +4,7 @@
             <h1>MEET THE TEAM</h1>
         </div>
         <div class="team">
-            <di class="team-row-1">
+            <div class="team-row-1">
                 <div class="member">
                 <img src="../assets/afif-ashraf.jpeg">
                 <h5>AFIF C ASHRAF</h5>
@@ -20,13 +20,13 @@
                 <h5>ALBIN JOSE</h5>
                 <p>Backend Developer</p>
             </div>
-            <div class="member">
-                <img src="../assets/amal-jose.jpeg">
-                <h5>AMAL JOSE</h5>
-                <p>Backend Developer</p>
-            </div>
-            </di>
+        </div>
             <div class="team-row-2">
+                <div class="member">
+                    <img src="../assets/amal-jose.jpeg">
+                    <h5>AMAL JOSE</h5>
+                    <p>Backend Developer</p>
+                </div>
                 <div class="member">
                 <img src="../assets/aneesh-jose.jpeg">
                 <h5>ANEESH JOSE</h5>
@@ -36,11 +36,6 @@
                 <img src="../assets/james-kaviyil.jpeg">
                 <h5>JAMES KAVIYIL JOSE</h5>
                 <p>MEVN Stack Developer</p>
-            </div>
-            <div class="member">
-                <img src="../assets/christy-oommen.png">
-                <h5>CHRISTY OOMMEN VARGHESE</h5>
-                <p>Frontend Developer</p>
             </div>
             </div>
             
